@@ -1,6 +1,8 @@
 # Facebook-Style Developer Portfolio Template
+A responsive developer portfolio inspired by the layout patterns of a social-media profile.
 
-A simple portfolio starter inspired by the layout patterns of a social-media profile:
+## Features
+
 - Cover photo
 - Profile photo
 - Intro/about section
@@ -10,6 +12,11 @@ A simple portfolio starter inspired by the layout patterns of a social-media pro
 - Contact section
 - Responsive layout
 
+## Built With
+ - HTML
+ - CSS
+ - JavaScript
+
 ## Files
 
 - `index.html` — page structure and content
@@ -18,15 +25,15 @@ A simple portfolio starter inspired by the layout patterns of a social-media pro
 
 ## Getting started
 
-1. Open `index.html` in your browser.
-2. Replace "Your Name" and the placeholder text.
-3. Replace the placeholder cover/profile/project areas with your own images.
-4. Add your real experience, skills, projects, GitHub, LinkedIn, and resume.
-5. Customize the colors and layout in `style.css`.
+1. Clone the repository:
+    git clone https://github.com/avzatienza029/developer-portfolio.git
+2. Open the project folder:
+    cd developer-portfolio
+3. Open index.html in your browser.
 
-## Suggested next steps
+## Roadmap
 
-After the basic version works, add:
+Planned improvements:
 - real project images
 - project filtering
 - dark mode
@@ -36,4 +43,8 @@ After the basic version works, add:
 - project detail pages
 - GitHub API integration
 
-This template intentionally uses plain HTML, CSS, and JavaScript so it can serve as a programming refresher project.
+## Live Demo
+Coming soon.
+
+## License
+This project is for personal portfolio and learning purposes.
